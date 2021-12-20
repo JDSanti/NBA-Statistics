@@ -1,8 +1,7 @@
-Sample Module Repository
+NBA-Statistics
 ========================
 
-This simple project is an example repo for Python projects.
-
+This python project is an executable that allows the user to search NBA team and player statistics at a given time 
 `Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
 
 ---------------
