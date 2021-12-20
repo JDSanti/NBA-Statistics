@@ -2,7 +2,7 @@ NBA-Statistics
 ========================
 
 This python project is an executable that allows the user to search NBA team and player statistics at a given time 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+`Learn more <http://www.josestgo.com/Projects/NBA>`_.
 
 ---------------
 
