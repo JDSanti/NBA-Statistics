@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Learn more: https://github.com/kennethreitz/setup.py
+# Learn more: https://github.com/JDSanti/NBA-Statistics
 
 from setuptools import setup, find_packages
 
@@ -12,14 +12,13 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='NBA-Statistics',
     version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    description='NBA Statistics executable written in python',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Jose Santiago',
+    author_email='jduhamel.santiago@outlook.com',
+    url='https://github.com/JDSanti/NBA-Statistics',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
-
